@@ -31,7 +31,9 @@ A frontend developer from China.
 ![Flask](http://img.shields.io/badge/-Flask-39A9BE?style=flat-square&logo=flask&logoColor=ffffff)
 ![SqlAlchemy](http://img.shields.io/badge/-SqlAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=ffffff)
 
-[![PrinceSaoKe's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=PrinceSaoKe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/PrinceSaoKe/)
+![PrinceSaoKe's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceSaoKe&show_icons=true&theme=rose)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSaoKe&layout=compact)](https://github.com/PrinceSaoKe/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceSaoKe/PrinceSaoKe/output/github-contribution-grid-snake-dark.svg">
