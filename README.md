@@ -11,8 +11,7 @@ A frontend developer from China.
 ### My Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Hexo](http://img.shields.io/badge/-Hexo-0073AA?style=flat-square&logo=hexo&logoColor=ffffff)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Github](https://img.shields.io/badge/-Github-252A2F?style=flat-square&logo=git&logoColor=%23ffffff)
 
 #### Mobile-end
 
