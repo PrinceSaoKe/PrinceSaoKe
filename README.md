@@ -5,7 +5,7 @@ A frontend developer from China.
 - 📖 Undergraduate third year in college
 - 💻 My blog: [PrinceSaoKe's blog](https://PrinceSaoKe.github.io)
 - 💬 My email: 2596818595@qq.com
-- ✨ My website: [PrinceSaoKe's personal website](http://47.99.83.24/)
+- ✨ My website: [PrinceSaoKe's personal website](http://47.113.200.101)
 - 🎮 Like coding & playing computer games
 
 ### My Tech Stack
