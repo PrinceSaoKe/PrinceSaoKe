@@ -15,9 +15,9 @@ A mobile developer from China.
 
 #### Mobile-end
 
-![Java](http://img.shields.io/badge/-Java-2BB6F6?style=flat-square&logo=dart&logoColor=ffffff)
-![Kotlin](http://img.shields.io/badge/-Kotlin-2BB6F6?style=flat-square&logo=dart&logoColor=ffffff)
-![Android](http://img.shields.io/badge/-Android-2BB6F6?style=flat-square&logo=dart&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-B74237?style=flat-square&logo=java&logoColor=ffffff)
+![Kotlin](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff)
+![Android](http://img.shields.io/badge/-Android-41D985?style=flat-square&logo=android&logoColor=ffffff)
 ![Dart](http://img.shields.io/badge/-Dart-2BB6F6?style=flat-square&logo=dart&logoColor=ffffff)
 ![Flutter](http://img.shields.io/badge/-Flutter-5AC7F8?style=flat-square&logo=flutter&logoColor=ffffff)
 
@@ -26,13 +26,13 @@ A mobile developer from China.
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue3](http://img.shields.io/badge/-Vue-2BB6F6?style=flat-square&logo=dart&logoColor=ffffff)
+![Vue3](http://img.shields.io/badge/-Vue3-42B883?style=flat-square&logo=vuedotjs&logoColor=ffffff)
 
 #### Backend
 
 ![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
 ![Flask](http://img.shields.io/badge/-Flask-39A9BE?style=flat-square&logo=flask&logoColor=ffffff)
-![MySQL](http://img.shields.io/badge/-MySQL-2BB6F6?style=flat-square&logo=dart&logoColor=ffffff)
+![MySQL](http://img.shields.io/badge/-MySQL-2BB6F6?style=flat-square&logo=mysql&logoColor=ffffff)
 ![SqlAlchemy](http://img.shields.io/badge/-SqlAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=ffffff)
 
 ![PrinceSaoKe's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceSaoKe&show_icons=true&theme=rose)
